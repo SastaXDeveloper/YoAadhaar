@@ -13,4 +13,4 @@
 
 # Demo Video
 
-https://github.com/sanskritdeveloper/YoAadhaar/blob/master/demo.mp4
+<video src="https://github.com/sanskritdeveloper/YoAadhaar/blob/master/demo.mp4" width=180/>
